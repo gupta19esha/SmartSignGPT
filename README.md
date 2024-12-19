@@ -3,7 +3,7 @@
 SmartSignGPT is an intelligent contract analysis and management platform powered by OpenAI's GPT. Simplify contract review, creation, and signing processes with advanced AI assistance. Built with Next.js and styled with Tailwind CSS, this application offers comprehensive contract analysis, risk assessment, and collaborative features for efficient document management.
 
 ## Live Demo
-[https://smartsigngpt.vercel.app/](https://smartsigngpt.vercel.app/)
+[https://smartsigngpt.vercel.app/](https://smart-sign-gpt-metaschool.vercel.app/)
 
 ## Features
 
